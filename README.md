@@ -1,11 +1,18 @@
 # Zomato-Data-Analytics-Project
 This project gives an understanding of  the Zomato Data considered , the dataset was taken from kaggle. Exploratory Data Analysis has been performed and 6 potential questions have been answered.
-1.What type of restuarant do majority of customers order from?
-2.How many votes has each type of restaurant received?
-3.What are the ratings that the majority of restaurants have received?
-4.Zomato has obsereved that most of the couples order food online.What is their average spending?
-5.Which mode (online or offline) has received the maximum ratings?
-6.Which type of restaurant received more offline orders? So that zomato can provide customers with offer.
+
+1. What type of restuarant do majority of customers order from?
+
+2. How many votes has each type of restaurant received?
+
+3. What are the ratings that the majority of restaurants have received?
+
+4. Zomato has obsereved that most of the couples order food online.What is their average spending?
+
+5. Which mode (online or offline) has received the maximum ratings?
+
+6. Which type of restaurant received more offline orders? So that zomato can provide customers with offer.
+
 
 # Import libraries 
 pandas for data manipulation and analysis, numpy for numerical operations,matplotlib and seaborn for data visualization.
@@ -67,6 +74,7 @@ Various types of data analysis was performed from which one can get the idea of 
  
 # Resources
 https://www.youtube.com/watch?v=XEMVDmyYkDU
+
 https://www.kaggle.com/
 
 
