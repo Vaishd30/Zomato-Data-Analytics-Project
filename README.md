@@ -29,7 +29,7 @@ Here the datatype of the column "rate" is converted to float for better analysis
 
 1. Seaborn Countplot
 
-Seaborn countplot is used in this case to get the exact count of number of customers ordering from each type of restaurant. From the countplot below we can conclde that   majority of the orders are from "Dining" type.
+ Seaborn countplot is used in this case to get the exact count of number of customers ordering from each type of restaurant. From the countplot below we can conclde that majority of the orders are from "Dining" type.
 
 ![Counplot](https://github.com/user-attachments/assets/b7fdb265-e65d-457c-a032-0c31f0481448)
 
