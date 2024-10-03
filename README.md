@@ -26,7 +26,7 @@ Seaborn countplot is used in this case to get the exact count of number of custo
 ![Counplot](https://github.com/user-attachments/assets/b7fdb265-e65d-457c-a032-0c31f0481448)
 
 
-3. Line Graph
+2.Line Graph
 To visualize the number of votes each restuarant received we use the line graph by first taking the summation and grouping the two columns "listed_in(type)" and "votes". From the graph below we can conclude that "Dining" type received the maximum number of votes.
 
 ![Line Graph](https://github.com/user-attachments/assets/f78b4cfb-57f6-4ebc-a5f3-03dbe6eff5db)
