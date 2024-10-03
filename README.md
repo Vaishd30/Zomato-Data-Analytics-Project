@@ -21,18 +21,21 @@ Here the datatype of the column "rate" is converted to float for better analysis
 
 
 1. Seaborn Countplot
+
 Seaborn countplot is used in this case to get the exact count of number of customers ordering from each type of restaurant. From the countplot below we can conclde that   majority of the orders are from "Dining" type.
 
 ![Counplot](https://github.com/user-attachments/assets/b7fdb265-e65d-457c-a032-0c31f0481448)
 
 
 2.Line Graph
+
 To visualize the number of votes each restuarant received we use the line graph by first taking the summation and grouping the two columns "listed_in(type)" and "votes". From the graph below we can conclude that "Dining" type received the maximum number of votes.
 
 ![Line Graph](https://github.com/user-attachments/assets/f78b4cfb-57f6-4ebc-a5f3-03dbe6eff5db)
 
 
 3.Histogram 
+
 From the graph below we can conclude that majority of restuarnts have received rating between 3.5 and 4.
 
 ![Histogram](https://github.com/user-attachments/assets/616df367-fa3a-4807-9280-58204410f198)
@@ -45,12 +48,14 @@ From the below plot we conclude majority of couples prefer restaurant with an ap
 
 
 5.Boxplot
+
 From the below graph we can conclude that offline order received lower rating in comparision to online rating.
 
 ![Boxplot](https://github.com/user-attachments/assets/a705424b-7f3f-49ea-b04a-e93ab60c2a31)
 
 6.Heatmap
-TO generate a Heatmap a pivot table was created with the variables and we can conclude that Dining restuarnts primarily accept offline orders,whereas cafes primarily receive online orders. This suggests that clients prefer orders in person at restaurants, but prefer online ordering at cafes.
+
+To generate a Heatmap a pivot table was created with the variables and we can conclude that Dining restuarnts primarily accept offline orders,whereas cafes primarily receive online orders. This suggests that clients prefer orders in person at restaurants, but prefer online ordering at cafes.
 
 ![Heatmap](https://github.com/user-attachments/assets/6a0e1bc8-da77-4193-82a6-aa9bc156131c)
 
