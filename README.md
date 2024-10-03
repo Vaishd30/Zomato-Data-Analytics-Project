@@ -34,34 +34,34 @@ Seaborn countplot is used in this case to get the exact count of number of custo
 ![Counplot](https://github.com/user-attachments/assets/b7fdb265-e65d-457c-a032-0c31f0481448)
 
 
-2.Line Graph
+2. Line Graph
 
 To visualize the number of votes each restuarant received we use the line graph by first taking the summation and grouping the two columns "listed_in(type)" and "votes". From the graph below we can conclude that "Dining" type received the maximum number of votes.
 
 ![Line Graph](https://github.com/user-attachments/assets/f78b4cfb-57f6-4ebc-a5f3-03dbe6eff5db)
 
 
-3.Histogram 
+3. Histogram 
 
 From the graph below we can conclude that majority of restuarnts have received rating between 3.5 and 4.
 
 ![Histogram](https://github.com/user-attachments/assets/616df367-fa3a-4807-9280-58204410f198)
 
 
-4.Countplot
+4. Countplot
 
 From the below plot we conclude majority of couples prefer restaurant with an approximate cost of Rs.300.
 
 ![Count plot 1](https://github.com/user-attachments/assets/fffec129-d724-4b91-ada0-88af1c2ba10f)
 
 
-5.Boxplot
+5. Boxplot
 
 From the below graph we can conclude that offline order received lower rating in comparision to online rating.
 
 ![Boxplot](https://github.com/user-attachments/assets/a705424b-7f3f-49ea-b04a-e93ab60c2a31)
 
-6.Heatmap
+6. Heatmap
 
 To generate a Heatmap a pivot table was created with the variables and we can conclude that Dining restuarnts primarily accept offline orders,whereas cafes primarily receive online orders. This suggests that clients prefer orders in person at restaurants, but prefer online ordering at cafes.
 
