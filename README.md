@@ -42,6 +42,7 @@ From the graph below we can conclude that majority of restuarnts have received r
 
 
 4.Countplot
+
 From the below plot we conclude majority of couples prefer restaurant with an approximate cost of Rs.300.
 
 ![Count plot 1](https://github.com/user-attachments/assets/fffec129-d724-4b91-ada0-88af1c2ba10f)
