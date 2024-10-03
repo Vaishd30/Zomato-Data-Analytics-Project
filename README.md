@@ -1,4 +1,4 @@
-# Zomato-Data-Science-Project
+# Zomato-Data-Analytics-Project
 This project gives an understanding of  the Zomato Data considered , the dataset was taken from kaggle. Exploratory Data Analysis has been performed and 6 potential questions have been answered.
 1.What type of restuarant do majority of customers order from?
 2.How many votes has each type of restaurant received?
